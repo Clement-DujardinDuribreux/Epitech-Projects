@@ -1,0 +1,7 @@
+compile_flags.txt
+G-NWP-400_myTeams.pdf
+
+*.o
+*.dat
+myteams_cli
+myteams_server

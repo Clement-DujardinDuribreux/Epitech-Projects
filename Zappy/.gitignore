@@ -1,0 +1,7 @@
+*.o
+.vscode
+zappy_ai
+zappy_server
+zappy_gui
+docs/doxygen/
+__pycache__/

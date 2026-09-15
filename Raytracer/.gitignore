@@ -1,0 +1,8 @@
+*.ppm
+a.out
+raytracer
+archives/
+*.o
+.vscode
+plugins/
+*.obj

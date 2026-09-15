@@ -1,0 +1,7 @@
+*.o
+*.a
+42sh
+.vscode
+.idea
+CMakeLists.txt
+cfile.sh
