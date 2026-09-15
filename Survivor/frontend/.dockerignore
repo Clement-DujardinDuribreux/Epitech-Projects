@@ -1,0 +1,21 @@
+# Deps & build output
+node_modules/
+dist/
+
+# Dev & IDE
+.vscode/
+.idea/
+
+# Git
+.git/
+.gitignore
+
+# Tests
+tests/
+coverage/
+*.test.ts
+*.spec.ts
+
+# Misc
+*.md
+.env*

@@ -1,0 +1,66 @@
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: profilsactifs-backend
+    restart: unless-stopped
+    env_file: .env
+    ports:
+      - "10000:8000"
+    volumes:
+      - uploads-data:/app/uploads
+    depends_on:
+      db:
+        condition: service_healthy
+    networks:
+      - profilsactifs-network
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  db:
+    image: mysql:8.4
+    container_name: profilsactifs-db
+    restart: unless-stopped
+    env_file: .env
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql-data:/var/lib/mysql
+      - ./backend/sql/ProfilsActifs.sql:/docker-entrypoint-initdb.d/ProfilsActifs.sql:ro
+    networks:
+      - profilsactifs-network
+    healthcheck:
+      test: ["CMD-SHELL", "mysqladmin ping -h localhost -u root -p$$MYSQL_ROOT_PASSWORD"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: profilsactifs-frontend
+    restart: unless-stopped
+    ports:
+    - "10001:80"
+    depends_on:
+      - backend
+    networks:
+      - profilsactifs-network
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+networks:
+  profilsactifs-network:
+    driver: bridge
+
+volumes:
+  mysql-data:
+  uploads-data:

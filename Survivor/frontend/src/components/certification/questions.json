@@ -1,0 +1,172 @@
+{
+  "titre": "Questionnaire de Certification JEB (20 questions)",
+  "nombre_total_questions": 20,
+  "categories": [
+    "Travail",
+    "Culture",
+    "Comportement",
+    "Gestion de projets"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "categorie": "Travail",
+      "type": "Vrai/Faux",
+      "question": "Le CDI est le contrat de travail standard en France.",
+      "reponse": "Vrai",
+      "justification": "Aptitude évaluée : Connaissance du cadre réglementaire du contrat de travail.\nContexte métier : Embauche et sécurisation de la relation d'emploi en entreprise.\nMise en situation : Choix du contrat de travail de droit commun lors d'un recrutement.\nRéponse attendue : Le CDI est le contrat de travail standard et de droit commun en France.\nCritères d'évaluation : Maîtrise des fondamentaux juridiques du droit du travail."
+    },
+    {
+      "id": 2,
+      "categorie": "Travail",
+      "type": "Vrai/Faux",
+      "question": "La période d'essai peut être renouvelée indéfiniment.",
+      "reponse": "Faux",
+      "justification": "Aptitude évaluée : Maîtrise des règles de la période d'essai et droits des salariés.\nContexte métier : Période d'intégration et évaluation probatoire en poste.\nMise en situation : L'employeur souhaite reconduire la période d'essai à plusieurs reprises.\nRéponse attendue : La période d'essai ne peut être renouvelée qu'une seule fois au maximum et uniquement si un accord de branche le prévoit.\nCritères d'évaluation : Connaissance des limites légales du renouvellement de période d'essai."
+    },
+    {
+      "id": 3,
+      "categorie": "Travail",
+      "type": "Vrai/Faux",
+      "question": "Le salaire minimum en France est appelé le SMIC.",
+      "reponse": "Vrai",
+      "justification": "Aptitude évaluée : Connaissance des normes de rémunération légale.\nContexte métier : Gestion de la rémunération et négociation salariale.\nMise en situation : Contrôle du seuil plancher de rémunération légale pour un travailleur en France.\nRéponse attendue : Le SMIC (Salaire Minimum Interprofessionnel de Croissance) est le salaire minimum légal.\nCritères d'évaluation : Connaissance des règles salariales fondamentales."
+    },
+    {
+      "id": 4,
+      "categorie": "Travail",
+      "type": "Vrai/Faux",
+      "question": "Le télétravail est un droit absolu inscrit dans le code du travail français pour tous les salariés.",
+      "reponse": "Faux",
+      "justification": "Aptitude évaluée : Connaissance du cadre réglementaire du travail à distance.\nContexte métier : Organisation du travail hybride et flexibilité opérationnelle.\nMise en situation : Un employé exige d'exercer à distance sans concertation ni accord préalable.\nRéponse attendue : Le télétravail est encadré par accord collectif ou charte d'entreprise, l'employeur pouvant refuser pour motifs légitimes.\nCritères d'évaluation : Compréhension des conditions de recours au télétravail."
+    },
+    {
+      "id": 5,
+      "categorie": "Travail",
+      "type": "Vrai/Faux",
+      "question": "La durée légale du travail en France est de 35 heures par semaine.",
+      "reponse": "Vrai",
+      "justification": "Aptitude évaluée : Réglementation du temps de travail et durée légale hebdomadaire.\nContexte métier : Planification des plannings et organisation hebdomadaire des équipes.\nMise en situation : Calcul de la durée de référence pour un emploi à temps plein.\nRéponse attendue : La durée légale du travail en France est fixée à 35 heures par semaine.\nCritères d'évaluation : Maîtrise des normes relatives au temps de travail."
+    },
+    {
+      "id": 6,
+      "categorie": "Culture",
+      "type": "Vrai/Faux",
+      "question": "Apple a été fondée par Steve Jobs, Steve Wozniak et Ronald Wayne en 1976.",
+      "reponse": "Vrai",
+      "justification": "Aptitude évaluée : Culture générale business, histoire de la tech et de l'innovation.\nContexte métier : Compréhension des grandes étapes de l'histoire entrepreneuriale moderne.\nMise en situation : Échanges professionnels sur les pionniers de l'industrie technologique.\nRéponse attendue : Apple a été fondée en 1976 par Steve Jobs, Steve Wozniak et Ronald Wayne.\nCritères d'évaluation : Culture historique des leaders technologiques mondiaux."
+    },
+    {
+      "id": 7,
+      "categorie": "Culture",
+      "type": "Vrai/Faux",
+      "question": "LinkedIn a été racheté par Microsoft en 2016.",
+      "reponse": "Vrai",
+      "justification": "Aptitude évaluée : Culture du marché numérique et des fusions-acquisitions tech.\nContexte métier : Écosystème des réseaux sociaux professionnels et services RH connectés.\nMise en situation : Connaissance des outils professionnels intégrés de l'environnement Microsoft.\nRéponse attendue : Microsoft a racheté LinkedIn en décembre 2016 pour 26,2 milliards de dollars.\nCritères d'évaluation : Connaissance des alliances stratégiques du secteur numérique."
+    },
+    {
+      "id": 8,
+      "categorie": "Culture",
+      "type": "Vrai/Faux",
+      "question": "Le PIB mesure la richesse produite par un pays sur une année.",
+      "reponse": "Vrai",
+      "justification": "Aptitude évaluée : Notions macroéconomiques et compréhension du contexte économique.\nContexte métier : Analyse de l'environnement d'affaires et des indicateurs de croissance.\nMise en situation : Lecture d'un rapport économique sur la conjoncture nationale.\nRéponse attendue : Le Produit Intérieur Brut mesure la somme des valeurs ajoutées créées sur un territoire en un an.\nCritères d'évaluation : Compréhension des agrégats économiques fondamentaux."
+    },
+    {
+      "id": 9,
+      "categorie": "Culture",
+      "type": "Vrai/Faux",
+      "question": "Le terme \"licorne\" désigne une startup valorisée à plus d'un milliard de dollars.",
+      "reponse": "Vrai",
+      "justification": "Aptitude évaluée : Lexique des affaires, finance et écosystème startup.\nContexte métier : Veille concurrentielle, financement de l'innovation et capital-risque.\nMise en situation : Évaluation d'une entreprise innovante à fort potentiel de croissance.\nRéponse attendue : Une licorne est une startup non cotée en bourse valorisée à plus d'un milliard de dollars.\nCritères d'évaluation : Maîtrise du vocabulaire économique contemporain."
+    },
+    {
+      "id": 10,
+      "categorie": "Culture",
+      "type": "Vrai/Faux",
+      "question": "Le \"Kaizen\", méthode d'amélioration continue, est un concept d'origine japonaise.",
+      "reponse": "Vrai",
+      "justification": "Aptitude évaluée : Méthodologies de gestion de la qualité et excellence opérationnelle.\nContexte métier : Optimisation continue des processus de production ou de service.\nMise en situation : Déploiement d'une démarche d'amélioration continue et collaborative en entreprise.\nRéponse attendue : Le Kaizen est une philosophie japonaise d'amélioration continue pas à pas.\nCritères d'évaluation : Connaissance des approches reconnues d'amélioration continue."
+    },
+    {
+      "id": 11,
+      "categorie": "Comportement",
+      "type": "Oui/Non",
+      "question": "Est-il important de saluer ses collègues en arrivant au bureau ?",
+      "reponse": "Oui",
+      "justification": "Aptitude évaluée : Savoir-être professionnel, courtoisie et sociabilité au travail.\nContexte métier : Intégration dans une équipe et relations humaines au quotidien.\nMise en situation : Arrivée le matin sur son lieu de travail physique ou partagé.\nRéponse attendue : Saluer ses collègues participe à la cohésion et instaure un climat de respect mutuel.\nCritères d'évaluation : Respect des règles fondamentales de politesse en collectivité."
+    },
+    {
+      "id": 12,
+      "categorie": "Comportement",
+      "type": "Oui/Non",
+      "question": "Un feedback constructif doit-il se concentrer sur des faits plutôt que sur la personne ?",
+      "reponse": "Oui",
+      "justification": "Aptitude évaluée : Communication interpersonnelle, posture d'écoute et feedback bienveillant.\nContexte métier : Évaluation d'un travail, point d'étape ou réunion de cadrage.\nMise en situation : Donner un retour d'expérience à un pair sur un livrable améliorable.\nRéponse attendue : Un feedback constructif s'appuie sur des faits précis et observables, sans attaquer la personne.\nCritères d'évaluation : Capacité à formuler des retours professionnels objectifs et bienveillants."
+    },
+    {
+      "id": 13,
+      "categorie": "Comportement",
+      "type": "Oui/Non",
+      "question": "L'écoute active est-elle une compétence essentielle en entreprise ?",
+      "reponse": "Oui",
+      "justification": "Aptitude évaluée : Écoute active, compréhension des besoins et reformulation empathique.\nContexte métier : Entretiens, réunions pluridisciplinaires et interactions avec des clients.\nMise en situation : Recueil des consignes d'un responsable ou des attentes d'un partenaire.\nRéponse attendue : L'écoute active permet d'éviter les quiproquos et de répondre efficacement aux problématiques.\nCritères d'évaluation : Attention soutenue, absence d'interruption et reformulation adaptée."
+    },
+    {
+      "id": 14,
+      "categorie": "Comportement",
+      "type": "Oui/Non",
+      "question": "Partager des informations confidentielles de l'entreprise avec des concurrents est-il autorisé ?",
+      "reponse": "Non",
+      "justification": "Aptitude évaluée : Déontologie, éthique professionnelle et devoir de loyauté.\nContexte métier : Manipulation de données sensibles, secret des affaires et sécurité de l'information.\nMise en situation : Sollicitation informelle par un tiers externe concernant des projets internes.\nRéponse attendue : La divulgation d'informations confidentielles constitue une faute grave engageant la responsabilité du collaborateur.\nCritères d'évaluation : Respect scrupuleux de la confidentialité et loyauté professionnelle."
+    },
+    {
+      "id": 15,
+      "categorie": "Comportement",
+      "type": "Oui/Non",
+      "question": "Reconnaître ses erreurs publiquement peut-il renforcer la confiance de son équipe ?",
+      "reponse": "Oui",
+      "justification": "Aptitude évaluée : Intégrité, humilité professionnelle et responsabilité collaborative.\nContexte métier : Gestion d'incident opérationnel ou analyse d'un problème en équipe.\nMise en situation : Identifier son rôle dans un retard ou une erreur technique et l'assumer en réunion.\nRéponse attendue : Reconnaître ses erreurs favorise la transparence et consolide la confiance mutuelle au sein de l'équipe.\nCritères d'évaluation : Transparence, honnêteté intellectuelle et esprit de responsabilité."
+    },
+    {
+      "id": 16,
+      "categorie": "Gestion de projets",
+      "type": "Vrai/Faux",
+      "question": "La méthode Agile privilégie des cycles de développement courts et itératifs.",
+      "reponse": "Vrai",
+      "justification": "Aptitude évaluée : Compréhension des principes et pratiques des méthodologies agiles.\nContexte métier : Conduite de projets dans un contexte changeant et dynamique.\nMise en situation : Structuration des livrables par étapes incrémentales pour intégrer rapidement les retours utilisateurs.\nRéponse attendue : L'approche Agile favorise l'adaptabilité grâce à des itérations courtes et régulières.\nCritères d'évaluation : Maîtrise des principes fondamentaux de la gestion de projet agile."
+    },
+    {
+      "id": 17,
+      "categorie": "Gestion de projets",
+      "type": "Vrai/Faux",
+      "question": "Le diagramme de Gantt est un outil utilisé pour planifier les tâches d'un projet dans le temps.",
+      "reponse": "Vrai",
+      "justification": "Aptitude évaluée : Maîtrise des outils standards d'ordonnancement et de planification de projet.\nContexte métier : Pilotage de planning, suivi des jalons critiques et gestion des dépendances temporelles.\nMise en situation : Présentation de l'échéancier des tâches et livrables à un comité de projet.\nRéponse attendue : Le diagramme de Gantt modélise visuellement la progression et la chronologie des tâches d'un projet.\nCritères d'évaluation : Connaissance des outils de planification et de suivi de projet."
+    },
+    {
+      "id": 18,
+      "categorie": "Gestion de projets",
+      "type": "Vrai/Faux",
+      "question": "Un \"sprint\" en méthode Scrum dure généralement plusieurs mois.",
+      "reponse": "Faux",
+      "justification": "Aptitude évaluée : Maîtrise du framework Scrum et du rythme des itérations.\nContexte métier : Organisation du travail d'une équipe agile dans le cadre de sprints de développement.\nMise en situation : Définition de la durée standard des cycles itératifs avec l'équipe Scrum.\nRéponse attendue : Un sprint Scrum dure généralement entre 1 et 4 semaines au maximum, jamais plusieurs mois.\nCritères d'évaluation : Connaissance des règles opérationnelles du cadre Scrum."
+    },
+    {
+      "id": 19,
+      "categorie": "Gestion de projets",
+      "type": "Vrai/Faux",
+      "question": "Le triangle d'or de la gestion de projet représente le coût, le délai et le périmètre/qualité.",
+      "reponse": "Vrai",
+      "justification": "Aptitude évaluée : Gestion des contraintes opérationnelles et arbitrage de projet.\nContexte métier : Négociation et pilotage des exigences face aux contraintes de ressources et de temps.\nMise en situation : Ajustement d'un délai de livraison nécessitant de revoir le budget ou le périmètre fonctionnel.\nRéponse attendue : Le triangle d'or illustre l'interdépendance indissociable entre budget, délai et qualité/périmètre.\nCritères d'évaluation : Compréhension des leviers d'équilibre d'un projet."
+    },
+    {
+      "id": 20,
+      "categorie": "Gestion de projets",
+      "type": "Vrai/Faux",
+      "question": "Le \"Product Owner\" dans Scrum est responsable de la vision produit et du backlog.",
+      "reponse": "Vrai",
+      "justification": "Aptitude évaluée : Connaissance des rôles Scrum et gouvernance produit.\nContexte métier : Gestion du backlog et alignement entre besoins des utilisateurs et équipe de réalisation.\nMise en situation : Priorisation des fonctionnalités à développer pour la prochaine release logicielle.\nRéponse attendue : Le Product Owner porte la vision du produit et ordonnance le backlog pour maximiser la valeur livrée.\nCritères d'évaluation : Identification des responsabilités clés du Product Owner."
+    }
+  ]
+}

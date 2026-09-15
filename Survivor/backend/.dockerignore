@@ -1,0 +1,27 @@
+# Venv & cache
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Dev & IDE
+.vscode/
+.idea/
+*.egg-info/
+
+# Git
+.git/
+.gitignore
+.gitkeep
+
+# Tests & coverage
+tests/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Misc
+*.md
+.env*
